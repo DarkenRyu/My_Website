@@ -1,0 +1,119 @@
+.up {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-weight: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+body {
+    margin: 0;
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    margin: 20px;
+    color: white;
+    
+}
+
+.Info {
+    border: 1px solid white;
+    margin: 20px;
+    height: auto;
+    width: fit-content;
+    padding: 20px;
+    color: white;
+}
+
+.comm {
+    position: absolute;
+    top: 0;
+    margin: 60ch 45ch;
+    padding-left: 20px;
+
+    
+    
+}
+
+.box {
+    color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-left: 20px;
+    height: 69.7vh;
+    width: 129vh;
+    position: absolute;
+    top: 0;
+    margin: 22ch 0px 0px 44ch;
+    background-color: white;
+}
+
+.comsub {
+    font-size: 18px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+
+textarea { 
+    height: 10ch;
+    width: 125vh;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.p { 
+    color: white;
+    border: 1px solid;
+    border-radius: 20px;
+    height: 10vh;
+    width: auto;
+    padding: 5vh 5vh 5vh 5vh;
+    font-size: 32px;
+
+
+}
+.o {
+    display: grid;
+    place-items: center;
+    margin-top: 34vh;
+}
+
+.i {
+    text-align: center;
+    margin-left: 40vh;
+    width: 30vh;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 120vh;
+    height: 37vh;
+    overflow-y: auto;
+    word-wrap: break-word;
+
+}
+
+.delete-btn { 
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.side { 
+    position: absolute;
+    top: 31%;
+    left: 82%;
+    border-radius: 40px;
+
+}
